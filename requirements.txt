@@ -1,0 +1,6 @@
+langchain
+langchain-community~=0.3.4
+unstructured
+beautifulsoup4
+pymilvus
+requests
